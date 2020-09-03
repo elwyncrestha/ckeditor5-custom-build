@@ -7,6 +7,9 @@
   "repository": {
     "url": "git@github.com:elwyncrestha/ckeditor5-custom-build.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "devDependencies": {
     "@ckeditor/ckeditor5-autoformat": "^21.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^21.0.0",
